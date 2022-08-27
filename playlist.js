@@ -38,25 +38,25 @@ const app = {
         {
             name: 'Love Me Like You Do',
             singer: 'Ellie Goulding (cover)',
-            url : 'https://cf-media.sndcdn.com/gcMHTCs2Gryq.128.?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vZ2NNSFRDczJHcnlxLjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0MTM5fX19XX0_&Signature=SjaHJrkastnQif7lcbPdMt2THd4rTAFda8ILmDDgaC8iwQucDTF14nQprDMkzdtYcgLCdwJMN2pIouXFDyHE6GTBQFygDQA~Ism7yAHzh4kdHDTP8tLwUjZrSRIikIGDRjkrldv3Cv8e2ig~~Sbym6-ww1hiWzIlWFqCFaMAQKhtlAuRzKzH5vVMLrMgy6mUzird6jtLQhvK9QoM8RDHYE0lwJ8oqd65tyLOssGWgKMOryMK4b8nwitfttdDsmxr5qXrISUsyFV-yeRiyDSIggIon6iW7c9wx5IZ9lTxzrE9EN1eyN2QqNjAL8xef9tXbLzBEv7XKc6Xt86AUnYeGA__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
+            url : 'https://cf-media.sndcdn.com/gcMHTCs2Gryq.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vZ2NNSFRDczJHcnlxLjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0MTM5fX19XX0_&Signature=SjaHJrkastnQif7lcbPdMt2THd4rTAFda8ILmDDgaC8iwQucDTF14nQprDMkzdtYcgLCdwJMN2pIouXFDyHE6GTBQFygDQA~Ism7yAHzh4kdHDTP8tLwUjZrSRIikIGDRjkrldv3Cv8e2ig~~Sbym6-ww1hiWzIlWFqCFaMAQKhtlAuRzKzH5vVMLrMgy6mUzird6jtLQhvK9QoM8RDHYE0lwJ8oqd65tyLOssGWgKMOryMK4b8nwitfttdDsmxr5qXrISUsyFV-yeRiyDSIggIon6iW7c9wx5IZ9lTxzrE9EN1eyN2QqNjAL8xef9tXbLzBEv7XKc6Xt86AUnYeGA__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
             image: 'https://i1.sndcdn.com/artworks-000106288137-p8gm48-t500x500.jpg'
         },
         {
             name: 'Shape Of You',
             singer: 'Ed Sheeran',
-            url: 'https://cf-media.sndcdn.com/afL96KeQO4Du.128.?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vYWZMOTZLZVFPNER1LjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0MTgzfX19XX0_&Signature=AEMJGRFq3lcJoGltR7Va3BtqgPDXzEbyp6CBw3oG8ROsCOoDntWIuxvaNVMG8kBgSrOlIWDSDsFXv~NaK92BBeu-A9sfhJBnm0rw-zOOsr6QHz1KqFN~JhRJPOwjg3SXkyoWZ65a8TZqNh96u4JqsSc9--Pf-894aC0BpkSKKjJe9vrq0bkHFPC2iQwSxHZju8grRpbfV0K5QzgTH0OujQ8UPPDlKXIoJJx-S4J2klYlH4tZ8K~L1a6o88r5trmsvcQcLjE0jU6w-abVSmpj0LT8B8JrumMqi5WY03Pv7g38LetwSVgwy1bDzB31zvFCO-beKh1EGiBEWwC0wmjtfw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
+            url: 'https://cf-media.sndcdn.com/afL96KeQO4Du.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vYWZMOTZLZVFPNER1LjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0MTgzfX19XX0_&Signature=AEMJGRFq3lcJoGltR7Va3BtqgPDXzEbyp6CBw3oG8ROsCOoDntWIuxvaNVMG8kBgSrOlIWDSDsFXv~NaK92BBeu-A9sfhJBnm0rw-zOOsr6QHz1KqFN~JhRJPOwjg3SXkyoWZ65a8TZqNh96u4JqsSc9--Pf-894aC0BpkSKKjJe9vrq0bkHFPC2iQwSxHZju8grRpbfV0K5QzgTH0OujQ8UPPDlKXIoJJx-S4J2klYlH4tZ8K~L1a6o88r5trmsvcQcLjE0jU6w-abVSmpj0LT8B8JrumMqi5WY03Pv7g38LetwSVgwy1bDzB31zvFCO-beKh1EGiBEWwC0wmjtfw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
             image: 'https://i1.sndcdn.com/artworks-000216517058-54f04s-t500x500.jpg'
         },
         {
             name: 'Sugar',
             singer: 'Maroon 5',
-            url: 'https://cf-media.sndcdn.com/6A9S74UMVeOw.128.?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vNkE5Uzc0VU1WZU93LjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0NDE5fX19XX0_&Signature=fPWXijCJTwvEKcNTx8Vl7P6Nc6PP55tLvSKbYOSA0IPMZyUININ5yRZX0H8idEuGOokjKPeOXQq1gXaIVGQf5ApQwai0O3HkNO0~zTzlDTnmcbrgLGnux1nAoKoYAEacmsbUerDXDP~ztvwlHFXC3xLLNt0kzs4BxtYrxTVucpn94AxW9gGHFYeKQ9U3B2CdrCEucqKy---hor6n7rDANdvTxOeHevXWW7AOYtUmwW-3BUh8EWARQxyrXBOJ-J~eDWZV-8ZsGrVN49sGZQP5m-9YKGDmeEx20Wb0s1S1o~BCXni2c6lYkQLX93BBIaFuWzUDTwHQaY7Zbh-S7kwjbQ__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
+            url: 'https://cf-media.sndcdn.com/6A9S74UMVeOw.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vNkE5Uzc0VU1WZU93LjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0NDE5fX19XX0_&Signature=fPWXijCJTwvEKcNTx8Vl7P6Nc6PP55tLvSKbYOSA0IPMZyUININ5yRZX0H8idEuGOokjKPeOXQq1gXaIVGQf5ApQwai0O3HkNO0~zTzlDTnmcbrgLGnux1nAoKoYAEacmsbUerDXDP~ztvwlHFXC3xLLNt0kzs4BxtYrxTVucpn94AxW9gGHFYeKQ9U3B2CdrCEucqKy---hor6n7rDANdvTxOeHevXWW7AOYtUmwW-3BUh8EWARQxyrXBOJ-J~eDWZV-8ZsGrVN49sGZQP5m-9YKGDmeEx20Wb0s1S1o~BCXni2c6lYkQLX93BBIaFuWzUDTwHQaY7Zbh-S7kwjbQ__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
             image : 'https://i1.sndcdn.com/artworks-000104792214-yqs9wl-t500x500.jpg'
         },
         {
             name: 'Memories',
             singer: "Maroon 5",
-            url: 'https://cf-media.sndcdn.com/7x8N7TksL7ub.128.?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vN3g4TjdUa3NMN3ViLjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0MTQ4fX19XX0_&Signature=GJNDSCb4LjypSfAC2hh7wmlpNxKuXex9BfLbRwJUhakYGv7aOpXnx8h42yVkt~Xd~22LmY6B~ounCYh0DmPMWFIWAsorUG1aVrPdPM6Bem5qk45gPQ4mVLmEdanxoWPQvqF2SABhd1w58y6lE8E3VjEdhE~9hr965YnyU441vLgjOLtffP~8OQuCY1ZGjBmVygz7-fwoKKDlcrMDEcmwPlVe2T4cYQHN8hiPRmVdb9q6yOBfQfU5bkG-NotfGH7DOphg-ZNePJI~WB-DbYxHdxyue4eadBbX19cng1xionDnilfKmmeURw~dMr5siMluG-fTybgaA~0zh1iHbz7nmw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
+            url: 'https://cf-media.sndcdn.com/7x8N7TksL7ub.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vN3g4TjdUa3NMN3ViLjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxNTA0MTQ4fX19XX0_&Signature=GJNDSCb4LjypSfAC2hh7wmlpNxKuXex9BfLbRwJUhakYGv7aOpXnx8h42yVkt~Xd~22LmY6B~ounCYh0DmPMWFIWAsorUG1aVrPdPM6Bem5qk45gPQ4mVLmEdanxoWPQvqF2SABhd1w58y6lE8E3VjEdhE~9hr965YnyU441vLgjOLtffP~8OQuCY1ZGjBmVygz7-fwoKKDlcrMDEcmwPlVe2T4cYQHN8hiPRmVdb9q6yOBfQfU5bkG-NotfGH7DOphg-ZNePJI~WB-DbYxHdxyue4eadBbX19cng1xionDnilfKmmeURw~dMr5siMluG-fTybgaA~0zh1iHbz7nmw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ',
             image: 'https://i1.sndcdn.com/artworks-000611868784-usldr7-t500x500.jpg'
         },
     ],
